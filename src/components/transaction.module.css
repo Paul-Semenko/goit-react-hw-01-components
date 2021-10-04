@@ -1,0 +1,27 @@
+.transactionHistory {
+  width: 100%;
+  text-align: center;
+  border-bottom: 1px solid rgb(214, 214, 214);
+}
+.rowContent {
+  height: 50px;
+  background-color: rgb(35, 174, 192);
+}
+.type,
+.amount,
+.currency {
+  text-transform: uppercase;
+  color: #ffff;
+}
+.bodyContent {
+  height: 50px;
+  font-size: 20px;
+  color: rgb(158, 158, 158);
+}
+
+.tableRow :nth-child(even) {
+  background-color: #e8edff;
+}
+.tableRow:nth-child(odd) {
+  background-color: #eee;
+}

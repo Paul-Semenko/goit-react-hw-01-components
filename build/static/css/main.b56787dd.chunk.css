@@ -1,0 +1,157 @@
+.profile_profile__2Rd5v {
+  padding: 15px;
+  text-align: center;
+  width: 300px;
+  background-color: #e4e4e4;
+}
+.profile_description__2Gvw8 {
+  font-size: 26px;
+}
+.profile_avatar__1VQ7Q {
+  border-radius: 50%;
+  border: 2px solid #eee8aa;
+}
+.profile_name__2fY_v {
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+.profile_tag__2kkT_ {
+  margin-bottom: 15px;
+}
+.profile_location__zbYDx,
+.profile_tag__2kkT_ {
+  color: #868686;
+  margin-top: 0;
+}
+.profile_stats__15WEu {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  padding: 0;
+  margin-bottom: 0;
+  background-color: #d8d7d7;
+}
+.profile_label__22WQv {
+  display: flex;
+  margin-bottom: 10px;
+  color: #868686;
+}
+.profile_quantity__2EuCO {
+  font-weight: 700;
+}
+.statistics_statistics__19Ceo {
+  width: 500px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  text-align: center;
+}
+.statistics_title___W6b6 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-transform: uppercase;
+}
+.statistics_stats__3dnnX {
+  display: flex;
+  justify-content: space-between;
+  width: 500px;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+.statistics_item__3q92W {
+  width: 100%;
+  background-color: #60b2ff;
+}
+.statistics_item__3q92W:first-child {
+  background-color: #79bff8;
+}
+.statistics_item__3q92W:nth-child(2) {
+  background-color: #8536ec;
+}
+.statistics_item__3q92W:nth-child(3) {
+  background-color: #fa5c5c;
+}
+.statistics_item__3q92W:nth-child(4) {
+  background-color: #46bbbb;
+}
+.statistics_item__3q92W:nth-child(5) {
+  background-color: #9a7ebe;
+}
+.statistics_label__2bYkq {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+  color: #fff;
+}
+.statistics_percentage__y1Vvp {
+  font-size: 20px;
+  color: #fff;
+}
+.friends_friendList__2OIbr {
+  list-style: none;
+}
+.friends_item__Hd6Uh {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  height: 100px;
+  width: 450px;
+  border: 1px solid #000;
+  box-shadow: 0 0 10px 0;
+}
+.friends_item__Hd6Uh:not(:last-child) {
+  margin-bottom: 15px;
+}
+.friends_status__1cxz2 {
+  background-color: red;
+}
+.friends_Online__3KwPJ,
+.friends_status__1cxz2 {
+  margin-left: 20px;
+  margin-right: 20px;
+  border-radius: 50%;
+  height: 30px;
+  width: 30px;
+}
+.friends_Online__3KwPJ {
+  background-color: green;
+}
+.friends_avatar__2WoLk {
+  width: 100px;
+  height: 100px;
+  margin-right: 20px;
+  border: 2px solid;
+  border-radius: 5px;
+  background-color: #cefdf3;
+}
+.friends_name__17hz4 {
+  margin: 0;
+  font-size: 40px;
+}
+.transaction_transactionHistory__2egE6 {
+  width: 100%;
+  text-align: center;
+  border-bottom: 1px solid #d6d6d6;
+}
+.transaction_rowContent__1sQMp {
+  height: 50px;
+  background-color: #23aec0;
+}
+.transaction_amount__3bTo6,
+.transaction_currency__1G5yT,
+.transaction_type__2fRgI {
+  text-transform: uppercase;
+  color: #fff;
+}
+.transaction_bodyContent__25Nil {
+  height: 50px;
+  font-size: 20px;
+  color: #9e9e9e;
+}
+.transaction_tableRow__XX6U6 :nth-child(2n) {
+  background-color: #e8edff;
+}
+.transaction_tableRow__XX6U6:nth-child(odd) {
+  background-color: #eee;
+}
+/*# sourceMappingURL=main.b56787dd.chunk.css.map */
